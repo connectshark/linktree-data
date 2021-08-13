@@ -1,3 +1,21 @@
 {
-  "name": "NoseGates"
+  "name": "NoseGates",
+  "social": [
+    {
+      "icon": "bx bxl-instagram",
+      "url": "https://www.instagram.com/nose_gates/"
+    },
+    {
+      "icon": "bx bxl-telegram",
+      "url": "https://t.me/NoseGates"
+    },
+    {
+      "icon": "bx bxl-github",
+      "url": "https://github.com/connectshark"
+    },
+    {
+      "icon": "bx bx-shopping-bag",
+      "url": "https://shp.ee/fsy2dra"
+    }
+  ]
 }
