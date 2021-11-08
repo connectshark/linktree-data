@@ -1,4 +1,37 @@
 {
-  "name": "NoseGates",
-  "description": "本名鼻子"
+  "utils": [
+    {
+      "img": "https://i.imgur.com/LWviMNU.png",
+      "title": "蝦皮短網址",
+      "url": "https://shopee.nosegates.com"
+    }
+  ],
+  "social": [
+    {
+      "icon": "bxl-facebook-circle",
+      "url": "https://www.facebook.com/EnTeng.Nose"
+    },
+    {
+      "icon": "bxl-telegram",
+      "url": "https://t.me/NoseGates"
+    },
+    {
+      "icon": "bxl-instagram",
+      "url": "https://www.instagram.com/nose_gates/"
+    }
+  ],
+  "links": [
+    {
+      "link": "https://tw.carousell.com/sandralu/",
+      "name": "女孩衣櫥飾品二手拍"
+    },
+    {
+      "link": "https://blog.justlikeboss.com/financial/recyclemobile/",
+      "name": "舊手機回收資訊"
+    },
+    {
+      "link": "https://www.instagram.com/tossphysio/",
+      "name": "辦公室族群的救星"
+    }
+  ]
 }
